@@ -1,8 +1,3 @@
----
-title: "Altergeist Guide"
-layout: default
----
-
 # Summary
 
 # Description
